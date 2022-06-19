@@ -1,3 +1,5 @@
 # WaveformView
 
-A description of this package.
+Draws an audio waveform for a given float channel data.
+
+
